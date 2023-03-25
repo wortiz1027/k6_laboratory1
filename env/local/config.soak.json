@@ -1,0 +1,21 @@
+{
+    "stages": [
+        {
+            "duration": "2m",
+            "target": 400
+        },
+        {
+            "duration": "3h56m",
+            "target": 400
+        },
+        {
+            "duration": "2m",
+            "target": 0
+        }
+    ],
+    "tags": {
+        "environment": "local",
+        "test_type": "soak",
+        "api_name": "client.bill.api"
+    }
+}

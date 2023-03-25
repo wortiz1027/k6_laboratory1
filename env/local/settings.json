@@ -1,0 +1,16 @@
+{
+  "SETTINGS": {
+    "base_url": "https://localhost:44339/api/v1"
+  },
+  "TEST_FILTERS": {
+    "enabled": false,
+    "starts_with": null,
+    "ends_with": null,
+    "contains": null,
+    "regex": null
+  },
+  "ENVIRONMENT": {
+    "execution": "local",
+    "options_set": "load"
+  }
+}
